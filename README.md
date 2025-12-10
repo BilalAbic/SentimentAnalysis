@@ -1,6 +1,6 @@
-# Duygu Analizi (Sentiment Analysis)
+﻿# Duygu Analizi (Sentiment Analysis)
 
-Nesne Tabanli Programlama dersi odevi olarak hazirlanan, ML (Machine Learning) ve metin isleme konularinda alistirma yapmak amaciyla gelistirilmis bir Windows Forms uygulamasidir.
+Nesne Tabanli Programlama dersi odevi olarak hazirlanan, ML (Machine Learning) ve metin isleme konularinda alistirma yapmak amaciyla gelistirilmis bir Windows Forms uygulamasi.
 
 ## Proje Hakkinda
 
@@ -34,13 +34,13 @@ Bu proje, Turkce metinlerin duygu analizini yapmak icin **ML.NET** ve **Naive Ba
 
 | Ana Ekran | Olumlu Sonuc | Olumsuz Sonuc |
 |-----------|--------------|---------------|
-| ![Ana Ekran](screenshots/1.png) | ![Olumlu](screenshots/2.png) | ![Olumsuz](screenshots/3.png) |
+| ![Ana Ekran](SentimentAnalysis/screenshots/Main.png) | ![Olumlu](SentimentAnalysis/screenshots/Positive.png) | ![Olumsuz](SentimentAnalysis/screenshots/Negative.png) |
 
 ## Referans
 
 Bu proje gelistirilirken asagidaki kaynak referans alinmistir:
 
-- [Duygu Analizi Sistemini Iyilestirme Plani](docs/Duygu%20Analizi%20Sistemini%20?yile?tirme%20Plan?.pdf) *(Gemini AI ile hazirlanmistir)*
+- [Duygu Analizi Sistemini Iyilestirme Plani](docs/Duygu%20Analizi%20Sistemini%20Iyilestirme%20Plani.pdf) *(Gemini AI ile hazirlanmistir)*
 
 ## Indirme
 
