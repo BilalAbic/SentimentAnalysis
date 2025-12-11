@@ -40,7 +40,7 @@ Bu proje, Turkce metinlerin duygu analizini yapmak icin **ML.NET** ve **Naive Ba
 
 Bu proje gelistirilirken asagidaki kaynak referans alinmistir:
 
-- [Duygu Analizi Sistemini Iyilestirme Plani](https://github.com/BilalAbic/SentimentAnalysis/blob/7341510f7cca4dd39430d8871000f3a5231dfa84/SentimentAnalysis/docs/Duygu%20Analizi%20Sistemini%20%C4%B0yile%C5%9Ftirme%20Plan%C4%B1.pdf) *(Gemini AI ile hazirlanmistir)*
+- [Duygu Analizi Sistemini Iyilestirme Plani](https://github.com/BilalAbic/SentimentAnalysis/raw/7341510f7cca4dd39430d8871000f3a5231dfa84/SentimentAnalysis/docs/Duygu%20Analizi%20Sistemini%20İyileştirme%20Planı.pdf) *(Gemini AI ile hazirlanmistir)*
 
 ## Indirme
 
